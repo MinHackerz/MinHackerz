@@ -2,7 +2,7 @@
 
 🌐 Specializing in **Data Engineering** and **WordPress Development**</br>
 📱 Diving into **AI Integration** endeavors  
-🤝 Seeking collaboration on **AI and Data Projects** 
+🤝 Seeking collaboration on **AI and Data Projects**</br>
 🔍 Driven to explore **emerging tech frontiers**
 
 
